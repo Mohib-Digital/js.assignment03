@@ -160,7 +160,54 @@ console.log(5 * 5 + 10 - 20 % (100 / 20) / 5)
 // 25 + 10 - 0 / 5
 // 25 + 10 - 0
 // 35 - 0 
-// 35
+// the answer is: 35
+// ===============================================================================================
+
+// Chapter.No: 8 (Concatenating Strings)
+
+// alert("Thanks for your input!")
+
+// var message = "Thanks for your input!"
+// alert(message)
+
+// personalized message:
+// var userName = "Mohib Bhai"
+// alert("Thanks, " + userName + "!")
+
+// var fristName = "Mohib";
+// var lastName = "Ullah";
+// fullName = fristName + " " + lastName;
+// alert(fullName)
+
+// var greeting = "Hello!, "
+// var name = "Mohib Ullah"
+// var punctuation = "!"
+// alert(greeting + name + punctuation)
+
+// var greeting = "Hello!, "
+// var name = "Mohib Ullah"
+// var punctuation = "!"
+// var highMessage = greeting + name + punctuation;
+// alert(highMessage)
+
+// alert("3" + "9")
+
+// alert("2 plus 2 equals " + 2 + 2)
+
+// alert(2 + 2 + " is 2 plus 2")
+// =====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
