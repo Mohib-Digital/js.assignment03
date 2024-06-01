@@ -128,10 +128,39 @@ console.log(newDecrement)
 // console.log(salary)
 // ===============================================================================================
 
+// Chapter.No: 07 Math expressions
 
+var resultOfComputation = (2 * 4) * 4 + 2;
+console.log(resultOfComputation)
+// (2 * 4) * 4 + 2
+// 8 * 4 + 2
+// 32 + 2
+// 18
 
+console.log(5 * 5 + 3 / 3 - 7)
+// 25 + 3 / 3 - 7
+// 25 + 1 - 7
+// 26 - 7
+// the answer is: 19
 
+console.log(5 * 5 - 3 / 3 + 7)
+// 25 - 3 / 3 + 7
+// 25 - 1 + 7
+// 24 + 7
+// the answer is: 31
 
+console.log(5 * 5 - 30 / (3 + 7))
+// 5 * 5 - 30 / 10
+// 25 - 30 / 10
+// 25 - 3
+// the answer is: 22
+
+console.log(5 * 5 + 10 - 20 % (100 / 20) / 5)
+// 5 * 5 + 10 - 20 % 5 / 5 
+// 25 + 10 - 0 / 5
+// 25 + 10 - 0
+// 35 - 0 
+// 35
 
 
 
